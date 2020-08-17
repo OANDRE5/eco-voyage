@@ -1,0 +1,194 @@
+# Translation of Themes - Tour Operator in French (France)
+# This file is distributed under the same license as the Themes - Tour Operator package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-13 12:30:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Tour Operator\n"
+
+#. Theme Name of the theme
+msgid "Tour Operator"
+msgstr "Tour Operator"
+
+#. translators: If there are characters in your language that are not supported
+#. by Nunito Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:72
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:583
+msgid "Tour Operator | Developed By "
+msgstr "Tour Operator | Développé par "
+
+#: functions.php:586
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+#: functions.php:586
+msgid " Powered by %s"
+msgstr " Propulsé par %s"
+
+#: functions.php:549
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: functions.php:546
+msgid "Rara One Click Demo Import"
+msgstr "Rara One Click Demo Import"
+
+#: functions.php:500
+msgid "More Details"
+msgstr "Plus de détails"
+
+#: functions.php:499
+msgid "Support ticket"
+msgstr "Ticket de support"
+
+#: functions.php:274
+msgid "Button Url"
+msgstr "URL du bouton"
+
+#: functions.php:248
+msgid "Enable to show search form in header."
+msgstr "Activer pour afficher le formulaire de recherche dans l'en-tête."
+
+#: functions.php:247
+msgid "Search Form"
+msgstr "Formulaire de recherche"
+
+#: functions.php:230
+msgid "Button Label"
+msgstr "Libellé du bouton"
+
+#: functions.php:203
+msgid "Phone Label"
+msgstr "Libellé du téléphone"
+
+#: functions.php:178
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+#: functions.php:28
+msgid "Default Header Image"
+msgstr "Image d'en-tête par défaut"
+
+#: functions.php:549
+msgid "Download Demo Content"
+msgstr "Télécharger le contenu de démo"
+
+#: sections/banner.php:8
+msgid "Find Your Best Holiday"
+msgstr "Trouvez vos meilleures vacances"
+
+#: functions.php:498
+msgid "View documentation"
+msgstr "Voir la documentation"
+
+#: functions.php:497 functions.php:498 functions.php:499 functions.php:500
+msgid "here"
+msgstr "ici"
+
+#: functions.php:497
+msgid "View demo"
+msgstr "Voir la démo"
+
+#: functions.php:496
+msgid "Need help?"
+msgstr "Besoin d’aide ?"
+
+#: functions.php:451
+msgid "MENU"
+msgstr "MENU"
+
+#: functions.php:389
+msgid "Call us, we are open 24/7"
+msgstr "Appelez-nous, nous sommes ouverts 24/7"
+
+#: functions.php:388
+msgid "(888) 123-45678"
+msgstr "(888) 123-45678"
+
+#: functions.php:292
+msgid "Social Links"
+msgstr "Liens sociaux"
+
+#: functions.php:546
+msgid "Plugin required"
+msgstr "Extension nécessaire"
+
+#: functions.php:506
+msgid "About Tour Package"
+msgstr "À propos de Tour Package"
+
+#: functions.php:153
+msgid "Email"
+msgstr "E-mail"
+
+#: functions.php:128
+msgid "Work Hour"
+msgstr "Horaires de travail"
+
+#: functions.php:483
+msgid "Information Links"
+msgstr "Liens d’informations"
+
+#: functions.php:293
+msgid "Enable to show social links in header."
+msgstr "Activer pour afficher les liens sociaux dans l'en-tête."
+
+#: functions.php:536
+msgid "About Demo Import"
+msgstr "À propos de l’import de démo"
+
+#: functions.php:529
+msgid "Tour Operator comes with demo content import feature. You can import the demo content with just one click. For step-by-step video tutorial, %1$sClick here%2$s"
+msgstr "Tour Operator est livré avec la fonction d’importation de contenu de démonstration. Vous pouvez importer le contenu de la démo en un seul clic. Pour le tutoriel vidéo étape par étape, %1$sCliquez ici%2$s"
+
+#: functions.php:517
+msgid "Demo Content Import"
+msgstr "Import de contenu de démo"
+
+#: functions.php:204
+msgid "Add phone label in header."
+msgstr "Ajouter le libellé du téléphone dans l'en-tête."
+
+#: functions.php:179
+msgid "Add phone number in header."
+msgstr "Ajouter le numéro de téléphone dans l'en-tête."
+
+#: functions.php:154
+msgid "Add email in header."
+msgstr "Ajouter l'e-mail dans l'en-tête."
+
+#: functions.php:129
+msgid "Add working hour in header."
+msgstr "Ajouter les horaires dans l'en-tête."
+
+#: sections/banner.php:10 sections/banner.php:11 functions.php:220
+#: functions.php:358
+msgid "Get Started"
+msgstr "Commencer"
+
+#: sections/banner.php:9
+msgid "Find great adventure holidays and activities around the planet."
+msgstr "Trouvez de grandes vacances d’aventure et des activités autour de la planète."
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/tour-operator/"
+msgstr "https://rarathemes.com/wordpress-themes/tour-operator/"
+
+#. Author of the theme
+#: functions.php:584
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
